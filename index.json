@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-22T01:44:47.329Z",
-  "count": 202,
-  "totalBytes": 13793010,
+  "generated": "2026-05-22T02:03:12.647Z",
+  "count": 203,
+  "totalBytes": 13895610,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1060,35 +1060,43 @@
       "level": 6
     },
     {
+      "slug": "bible-lee-nt-acts",
+      "file": "books/bible-lee-nt-acts.json",
+      "bytes": 101443,
+      "chapters": 21,
+      "title": "Lectio Easy Bible — AI 번역 — Acts",
+      "level": 1
+    },
+    {
       "slug": "bible-lee-nt-john",
       "file": "books/bible-lee-nt-john.json",
-      "bytes": 102909,
+      "bytes": 103182,
       "chapters": 21,
-      "title": "Holy Bible — LEE — John",
+      "title": "Lectio Easy Bible — AI 번역 — John",
       "level": 1
     },
     {
       "slug": "bible-lee-nt-luke",
       "file": "books/bible-lee-nt-luke.json",
-      "bytes": 135560,
+      "bytes": 135872,
       "chapters": 24,
-      "title": "Holy Bible — LEE — Luke",
+      "title": "Lectio Easy Bible — AI 번역 — Luke",
       "level": 1
     },
     {
       "slug": "bible-lee-nt-mark",
       "file": "books/bible-lee-nt-mark.json",
-      "bytes": 78683,
+      "bytes": 78891,
       "chapters": 16,
-      "title": "Holy Bible — LEE — Mark",
+      "title": "Lectio Easy Bible — AI 번역 — Mark",
       "level": 1
     },
     {
       "slug": "bible-lee-nt-matthew",
       "file": "books/bible-lee-nt-matthew.json",
-      "bytes": 127616,
+      "bytes": 127980,
       "chapters": 28,
-      "title": "Holy Bible — LEE — Matthew",
+      "title": "Lectio Easy Bible — AI 번역 — Matthew",
       "level": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-22T02:03:12.647Z",
-  "count": 203,
-  "totalBytes": 13895610,
+  "generated": "2026-05-22T02:15:27.994Z",
+  "count": 204,
+  "totalBytes": 13943978,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1062,8 +1062,8 @@
     {
       "slug": "bible-lee-nt-acts",
       "file": "books/bible-lee-nt-acts.json",
-      "bytes": 101443,
-      "chapters": 21,
+      "bytes": 132399,
+      "chapters": 28,
       "title": "Lectio Easy Bible — AI 번역 — Acts",
       "level": 1
     },
@@ -1097,6 +1097,14 @@
       "bytes": 127980,
       "chapters": 28,
       "title": "Lectio Easy Bible — AI 번역 — Matthew",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-romans",
+      "file": "books/bible-lee-nt-romans.json",
+      "bytes": 17412,
+      "chapters": 5,
+      "title": "Lectio Easy Bible — AI 번역 — Romans",
       "level": 1
     },
     {

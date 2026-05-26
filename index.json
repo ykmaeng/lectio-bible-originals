@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-22T02:15:27.994Z",
-  "count": 204,
-  "totalBytes": 13943978,
+  "generated": "2026-05-26T04:35:56.652Z",
+  "count": 226,
+  "totalBytes": 14545531,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1060,11 +1060,139 @@
       "level": 6
     },
     {
+      "slug": "bible-lee-nt-1-corinthians",
+      "file": "books/bible-lee-nt-1-corinthians.json",
+      "bytes": 53388,
+      "chapters": 16,
+      "title": "Lectio Easy Bible — AI 번역 — 1 Corinthians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-1-john",
+      "file": "books/bible-lee-nt-1-john.json",
+      "bytes": 14131,
+      "chapters": 5,
+      "title": "Lectio Easy Bible — AI 번역 — 1 John",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-1-peter",
+      "file": "books/bible-lee-nt-1-peter.json",
+      "bytes": 14473,
+      "chapters": 5,
+      "title": "Lectio Easy Bible — AI 번역 — 1 Peter",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-1-thessalonians",
+      "file": "books/bible-lee-nt-1-thessalonians.json",
+      "bytes": 11186,
+      "chapters": 5,
+      "title": "Lectio Easy Bible — AI 번역 — 1 Thessalonians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-1-timothy",
+      "file": "books/bible-lee-nt-1-timothy.json",
+      "bytes": 14784,
+      "chapters": 6,
+      "title": "Lectio Easy Bible — AI 번역 — 1 Timothy",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-2-corinthians",
+      "file": "books/bible-lee-nt-2-corinthians.json",
+      "bytes": 35301,
+      "chapters": 13,
+      "title": "Lectio Easy Bible — AI 번역 — 2 Corinthians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-2-john",
+      "file": "books/bible-lee-nt-2-john.json",
+      "bytes": 1778,
+      "chapters": 1,
+      "title": "Lectio Easy Bible — AI 번역 — 2 John",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-2-peter",
+      "file": "books/bible-lee-nt-2-peter.json",
+      "bytes": 9476,
+      "chapters": 3,
+      "title": "Lectio Easy Bible — AI 번역 — 2 Peter",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-2-thessalonians",
+      "file": "books/bible-lee-nt-2-thessalonians.json",
+      "bytes": 6422,
+      "chapters": 3,
+      "title": "Lectio Easy Bible — AI 번역 — 2 Thessalonians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-2-timothy",
+      "file": "books/bible-lee-nt-2-timothy.json",
+      "bytes": 10277,
+      "chapters": 4,
+      "title": "Lectio Easy Bible — AI 번역 — 2 Timothy",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-3-john",
+      "file": "books/bible-lee-nt-3-john.json",
+      "bytes": 1856,
+      "chapters": 1,
+      "title": "Lectio Easy Bible — AI 번역 — 3 John",
+      "level": 1
+    },
+    {
       "slug": "bible-lee-nt-acts",
       "file": "books/bible-lee-nt-acts.json",
       "bytes": 132399,
       "chapters": 28,
       "title": "Lectio Easy Bible — AI 번역 — Acts",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-colossians",
+      "file": "books/bible-lee-nt-colossians.json",
+      "bytes": 11959,
+      "chapters": 4,
+      "title": "Lectio Easy Bible — AI 번역 — Colossians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-ephesians",
+      "file": "books/bible-lee-nt-ephesians.json",
+      "bytes": 17910,
+      "chapters": 6,
+      "title": "Lectio Easy Bible — AI 번역 — Ephesians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-galatians",
+      "file": "books/bible-lee-nt-galatians.json",
+      "bytes": 18198,
+      "chapters": 6,
+      "title": "Lectio Easy Bible — AI 번역 — Galatians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-hebrews",
+      "file": "books/bible-lee-nt-hebrews.json",
+      "bytes": 40530,
+      "chapters": 13,
+      "title": "Lectio Easy Bible — AI 번역 — Hebrews",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-james",
+      "file": "books/bible-lee-nt-james.json",
+      "bytes": 13419,
+      "chapters": 5,
+      "title": "Lectio Easy Bible — AI 번역 — James",
       "level": 1
     },
     {
@@ -1076,9 +1204,17 @@
       "level": 1
     },
     {
+      "slug": "bible-lee-nt-jude",
+      "file": "books/bible-lee-nt-jude.json",
+      "bytes": 3791,
+      "chapters": 1,
+      "title": "Lectio Easy Bible — AI 번역 — Jude",
+      "level": 1
+    },
+    {
       "slug": "bible-lee-nt-luke",
       "file": "books/bible-lee-nt-luke.json",
-      "bytes": 135872,
+      "bytes": 135870,
       "chapters": 24,
       "title": "Lectio Easy Bible — AI 번역 — Luke",
       "level": 1
@@ -1086,7 +1222,7 @@
     {
       "slug": "bible-lee-nt-mark",
       "file": "books/bible-lee-nt-mark.json",
-      "bytes": 78891,
+      "bytes": 78889,
       "chapters": 16,
       "title": "Lectio Easy Bible — AI 번역 — Mark",
       "level": 1
@@ -1094,17 +1230,57 @@
     {
       "slug": "bible-lee-nt-matthew",
       "file": "books/bible-lee-nt-matthew.json",
-      "bytes": 127980,
+      "bytes": 127978,
       "chapters": 28,
       "title": "Lectio Easy Bible — AI 번역 — Matthew",
       "level": 1
     },
     {
+      "slug": "bible-lee-nt-philemon",
+      "file": "books/bible-lee-nt-philemon.json",
+      "bytes": 2618,
+      "chapters": 1,
+      "title": "Lectio Easy Bible — AI 번역 — Philemon",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-philippians",
+      "file": "books/bible-lee-nt-philippians.json",
+      "bytes": 12659,
+      "chapters": 4,
+      "title": "Lectio Easy Bible — AI 번역 — Philippians",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-revelation",
+      "file": "books/bible-lee-nt-revelation.json",
+      "bytes": 65213,
+      "chapters": 22,
+      "title": "Lectio Easy Bible — AI 번역 — Revelation",
+      "level": 1
+    },
+    {
       "slug": "bible-lee-nt-romans",
       "file": "books/bible-lee-nt-romans.json",
-      "bytes": 17412,
-      "chapters": 5,
+      "bytes": 54804,
+      "chapters": 16,
       "title": "Lectio Easy Bible — AI 번역 — Romans",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-nt-titus",
+      "file": "books/bible-lee-nt-titus.json",
+      "bytes": 6046,
+      "chapters": 3,
+      "title": "Lectio Easy Bible — AI 번역 — Titus",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-genesis",
+      "file": "books/bible-lee-ot-genesis.json",
+      "bytes": 198752,
+      "chapters": 50,
+      "title": "Lectio Easy Bible — AI 번역 — Genesis",
       "level": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-26T07:10:47.380Z",
-  "count": 231,
-  "totalBytes": 15212294,
+  "generated": "2026-05-26T07:28:03.207Z",
+  "count": 232,
+  "totalBytes": 15303633,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1305,6 +1305,14 @@
       "bytes": 92764,
       "chapters": 24,
       "title": "Lectio Easy Bible — AI 번역 — Joshua",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-judges",
+      "file": "books/bible-lee-ot-judges.json",
+      "bytes": 91339,
+      "chapters": 21,
+      "title": "Lectio Easy Bible — AI 번역 — Judges",
       "level": 1
     },
     {

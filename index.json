@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-26T04:35:56.652Z",
-  "count": 226,
-  "totalBytes": 14545531,
+  "generated": "2026-05-26T05:29:57.858Z",
+  "count": 227,
+  "totalBytes": 14706062,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1273,6 +1273,14 @@
       "bytes": 6046,
       "chapters": 3,
       "title": "Lectio Easy Bible — AI 번역 — Titus",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-exodus",
+      "file": "books/bible-lee-ot-exodus.json",
+      "bytes": 160531,
+      "chapters": 40,
+      "title": "Lectio Easy Bible — AI 번역 — Exodus",
       "level": 1
     },
     {

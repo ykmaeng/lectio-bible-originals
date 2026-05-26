@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-26T22:44:01.878Z",
-  "count": 234,
-  "totalBytes": 15433808,
+  "generated": "2026-05-26T23:05:19.269Z",
+  "count": 235,
+  "totalBytes": 15535346,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1281,6 +1281,14 @@
       "bytes": 117447,
       "chapters": 31,
       "title": "Lectio Easy Bible — AI 번역 — 1 Samuel",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-2-samuel",
+      "file": "books/bible-lee-ot-2-samuel.json",
+      "bytes": 101538,
+      "chapters": 24,
+      "title": "Lectio Easy Bible — AI 번역 — 2 Samuel",
       "level": 1
     },
     {

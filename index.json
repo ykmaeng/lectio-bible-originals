@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-26T06:23:25.313Z",
-  "count": 229,
-  "totalBytes": 14984673,
+  "generated": "2026-05-26T06:51:38.677Z",
+  "count": 230,
+  "totalBytes": 15119530,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1273,6 +1273,14 @@
       "bytes": 6046,
       "chapters": 3,
       "title": "Lectio Easy Bible — AI 번역 — Titus",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-deuteronomy",
+      "file": "books/bible-lee-ot-deuteronomy.json",
+      "bytes": 134857,
+      "chapters": 34,
+      "title": "Lectio Easy Bible — AI 번역 — Deuteronomy",
       "level": 1
     },
     {

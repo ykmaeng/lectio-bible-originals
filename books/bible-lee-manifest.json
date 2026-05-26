@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T07:28:02.880Z",
-  "totalChapters": 492,
+  "generated": "2026-05-26T07:31:23.630Z",
+  "totalChapters": 496,
   "books": {
     "nt": {
       "1-corinthians": [
@@ -564,6 +564,12 @@
         34,
         35,
         36
+      ],
+      "ruth": [
+        1,
+        2,
+        3,
+        4
       ]
     }
   }

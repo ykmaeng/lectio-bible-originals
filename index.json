@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-26T05:29:57.858Z",
-  "count": 227,
-  "totalBytes": 14706062,
+  "generated": "2026-05-26T05:53:36.789Z",
+  "count": 228,
+  "totalBytes": 14825466,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1289,6 +1289,14 @@
       "bytes": 198752,
       "chapters": 50,
       "title": "Lectio Easy Bible — AI 번역 — Genesis",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-leviticus",
+      "file": "books/bible-lee-ot-leviticus.json",
+      "bytes": 119404,
+      "chapters": 27,
+      "title": "Lectio Easy Bible — AI 번역 — Leviticus",
       "level": 1
     },
     {

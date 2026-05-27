@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T04:53:07.536Z",
-  "totalChapters": 715,
+  "generated": "2026-05-27T04:56:14.215Z",
+  "totalChapters": 719,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -433,6 +433,12 @@
         25,
         26,
         27
+      ],
+      "malachi": [
+        1,
+        2,
+        3,
+        4
       ],
       "nahum": [
         1,

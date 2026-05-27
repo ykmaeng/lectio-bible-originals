@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T04:32:25.273Z",
-  "count": 246,
-  "totalBytes": 16162814,
+  "generated": "2026-05-27T04:41:22.673Z",
+  "count": 247,
+  "totalBytes": 16170734,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1361,6 +1361,14 @@
       "bytes": 198752,
       "chapters": 50,
       "title": "Lectio Easy Bible — AI 번역 — Genesis",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-habakkuk",
+      "file": "books/bible-lee-ot-habakkuk.json",
+      "bytes": 7920,
+      "chapters": 3,
+      "title": "Lectio Easy Bible — AI 번역 — Habakkuk",
       "level": 1
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T04:32:24.941Z",
-  "totalChapters": 706,
+  "generated": "2026-05-27T04:41:22.203Z",
+  "totalChapters": 709,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -335,6 +335,11 @@
         48,
         49,
         50
+      ],
+      "habakkuk": [
+        1,
+        2,
+        3
       ],
       "haggai": [
         1,

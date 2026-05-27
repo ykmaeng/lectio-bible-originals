@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T06:39:00.480Z",
-  "count": 262,
-  "totalBytes": 17002103,
+  "generated": "2026-05-27T07:00:32.218Z",
+  "count": 263,
+  "totalBytes": 17225756,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1425,6 +1425,14 @@
       "bytes": 195038,
       "chapters": 66,
       "title": "Lectio Easy Bible — AI 번역 — Isaiah",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-jeremiah",
+      "file": "books/bible-lee-ot-jeremiah.json",
+      "bytes": 223653,
+      "chapters": 52,
+      "title": "Lectio Easy Bible — AI 번역 — Jeremiah",
       "level": 1
     },
     {

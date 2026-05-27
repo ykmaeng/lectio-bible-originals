@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T05:03:57.424Z",
-  "count": 252,
-  "totalBytes": 16234828,
+  "generated": "2026-05-27T05:08:42.016Z",
+  "count": 253,
+  "totalBytes": 16250168,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1481,6 +1481,14 @@
       "bytes": 12728,
       "chapters": 4,
       "title": "Lectio Easy Bible — AI 번역 — Ruth",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-song-of-solomon",
+      "file": "books/bible-lee-ot-song-of-solomon.json",
+      "bytes": 15340,
+      "chapters": 8,
+      "title": "Lectio Easy Bible — AI 번역 — Song of Solomon",
       "level": 1
     },
     {

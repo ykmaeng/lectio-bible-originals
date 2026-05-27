@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T04:44:55.124Z",
-  "totalChapters": 712,
+  "generated": "2026-05-27T04:53:07.536Z",
+  "totalChapters": 715,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -344,6 +344,11 @@
       "haggai": [
         1,
         2
+      ],
+      "joel": [
+        1,
+        2,
+        3
       ],
       "jonah": [
         1,

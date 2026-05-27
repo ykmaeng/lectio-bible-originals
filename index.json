@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T04:29:13.860Z",
-  "count": 245,
-  "totalBytes": 16155912,
+  "generated": "2026-05-27T04:32:25.273Z",
+  "count": 246,
+  "totalBytes": 16162814,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1401,6 +1401,14 @@
       "bytes": 119404,
       "chapters": 27,
       "title": "Lectio Easy Bible — AI 번역 — Leviticus",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-nahum",
+      "file": "books/bible-lee-ot-nahum.json",
+      "bytes": 6902,
+      "chapters": 3,
+      "title": "Lectio Easy Bible — AI 번역 — Nahum",
       "level": 1
     },
     {

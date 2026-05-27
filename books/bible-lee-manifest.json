@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T04:06:25.267Z",
-  "totalChapters": 703,
+  "generated": "2026-05-27T04:32:24.941Z",
+  "totalChapters": 706,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -423,6 +423,11 @@
         25,
         26,
         27
+      ],
+      "nahum": [
+        1,
+        2,
+        3
       ],
       "nehemiah": [
         1,

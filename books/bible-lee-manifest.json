@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T01:42:53.693Z",
-  "totalChapters": 676,
+  "generated": "2026-05-27T03:39:39.696Z",
+  "totalChapters": 680,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -266,7 +266,11 @@
         3,
         4,
         5,
-        6
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "genesis": [
         1,

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T01:42:54.097Z",
+  "generated": "2026-05-27T03:39:40.234Z",
   "count": 243,
-  "totalBytes": 16054119,
+  "totalBytes": 16071339,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1342,8 +1342,8 @@
     {
       "slug": "bible-lee-ot-ezra",
       "file": "books/bible-lee-ot-ezra.json",
-      "bytes": 20499,
-      "chapters": 6,
+      "bytes": 37719,
+      "chapters": 10,
       "title": "Lectio Easy Bible — AI 번역 — Ezra",
       "level": 1
     },

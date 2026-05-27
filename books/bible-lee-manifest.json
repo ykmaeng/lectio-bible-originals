@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T01:20:55.401Z",
-  "totalChapters": 670,
+  "generated": "2026-05-27T01:36:29.443Z",
+  "totalChapters": 672,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -319,6 +319,10 @@
         48,
         49,
         50
+      ],
+      "haggai": [
+        1,
+        2
       ],
       "joshua": [
         1,

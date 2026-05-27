@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T01:20:55.978Z",
-  "count": 241,
-  "totalBytes": 16041246,
+  "generated": "2026-05-27T01:36:29.833Z",
+  "count": 242,
+  "totalBytes": 16047188,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1353,6 +1353,14 @@
       "bytes": 198752,
       "chapters": 50,
       "title": "Lectio Easy Bible — AI 번역 — Genesis",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-haggai",
+      "file": "books/bible-lee-ot-haggai.json",
+      "bytes": 5942,
+      "chapters": 2,
+      "title": "Lectio Easy Bible — AI 번역 — Haggai",
       "level": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T05:14:15.622Z",
-  "count": 254,
-  "totalBytes": 16272485,
+  "generated": "2026-05-27T05:21:15.383Z",
+  "count": 255,
+  "totalBytes": 16331776,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1329,6 +1329,14 @@
       "bytes": 22317,
       "chapters": 9,
       "title": "Lectio Easy Bible — AI 번역 — Amos",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-daniel",
+      "file": "books/bible-lee-ot-daniel.json",
+      "bytes": 59291,
+      "chapters": 12,
+      "title": "Lectio Easy Bible — AI 번역 — Daniel",
       "level": 1
     },
     {

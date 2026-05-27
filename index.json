@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T05:39:17.290Z",
-  "count": 258,
-  "totalBytes": 16423219,
+  "generated": "2026-05-27T05:48:31.720Z",
+  "count": 259,
+  "totalBytes": 16507776,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1505,6 +1505,14 @@
       "bytes": 3549,
       "chapters": 1,
       "title": "Lectio Easy Bible — AI 번역 — Obadiah",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-proverbs",
+      "file": "books/bible-lee-ot-proverbs.json",
+      "bytes": 84557,
+      "chapters": 31,
+      "title": "Lectio Easy Bible — AI 번역 — Proverbs",
       "level": 1
     },
     {

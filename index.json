@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T04:06:25.604Z",
+  "generated": "2026-05-27T04:14:14.220Z",
   "count": 245,
-  "totalBytes": 16155912,
+  "totalBytes": 16156378,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -174,7 +174,7 @@
     {
       "slug": "bible-bsb-nt-matthew",
       "file": "books/bible-bsb-nt-matthew.json",
-      "bytes": 130741,
+      "bytes": 130974,
       "chapters": 28,
       "title": "Holy Bible — BSB — Matthew",
       "level": 1
@@ -1230,7 +1230,7 @@
     {
       "slug": "bible-lee-nt-matthew",
       "file": "books/bible-lee-nt-matthew.json",
-      "bytes": 127978,
+      "bytes": 128211,
       "chapters": 28,
       "title": "Lectio Easy Bible — AI 번역 — Matthew",
       "level": 1

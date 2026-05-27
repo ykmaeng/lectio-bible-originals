@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T04:56:14.627Z",
-  "count": 250,
-  "totalBytes": 16199791,
+  "generated": "2026-05-27T04:58:55.201Z",
+  "count": 251,
+  "totalBytes": 16218303,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1409,6 +1409,14 @@
       "bytes": 91339,
       "chapters": 21,
       "title": "Lectio Easy Bible — AI 번역 — Judges",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-lamentations",
+      "file": "books/bible-lee-ot-lamentations.json",
+      "bytes": 18512,
+      "chapters": 5,
+      "title": "Lectio Easy Bible — AI 번역 — Lamentations",
       "level": 1
     },
     {

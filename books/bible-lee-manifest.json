@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T04:56:14.215Z",
-  "totalChapters": 719,
+  "generated": "2026-05-27T04:58:54.864Z",
+  "totalChapters": 724,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -404,6 +404,13 @@
         19,
         20,
         21
+      ],
+      "lamentations": [
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "leviticus": [
         1,

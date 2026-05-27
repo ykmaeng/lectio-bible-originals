@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T05:21:14.977Z",
-  "totalChapters": 760,
+  "generated": "2026-05-27T05:31:06.443Z",
+  "totalChapters": 772,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -242,6 +242,20 @@
         32,
         33,
         34
+      ],
+      "ecclesiastes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "esther": [
         1,

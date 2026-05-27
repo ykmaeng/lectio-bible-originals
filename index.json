@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T00:24:35.310Z",
-  "count": 239,
-  "totalBytes": 16017198,
+  "generated": "2026-05-27T01:20:55.978Z",
+  "count": 241,
+  "totalBytes": 16041246,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1340,6 +1340,14 @@
       "level": 1
     },
     {
+      "slug": "bible-lee-ot-ezra",
+      "file": "books/bible-lee-ot-ezra.json",
+      "bytes": 20499,
+      "chapters": 6,
+      "title": "Lectio Easy Bible — AI 번역 — Ezra",
+      "level": 1
+    },
+    {
       "slug": "bible-lee-ot-genesis",
       "file": "books/bible-lee-ot-genesis.json",
       "bytes": 198752,
@@ -1377,6 +1385,14 @@
       "bytes": 159207,
       "chapters": 36,
       "title": "Lectio Easy Bible — AI 번역 — Numbers",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-obadiah",
+      "file": "books/bible-lee-ot-obadiah.json",
+      "bytes": 3549,
+      "chapters": 1,
+      "title": "Lectio Easy Bible — AI 번역 — Obadiah",
       "level": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T03:39:40.234Z",
-  "count": 243,
-  "totalBytes": 16071339,
+  "generated": "2026-05-27T03:56:24.593Z",
+  "count": 244,
+  "totalBytes": 16127263,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1393,6 +1393,14 @@
       "bytes": 119404,
       "chapters": 27,
       "title": "Lectio Easy Bible — AI 번역 — Leviticus",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-nehemiah",
+      "file": "books/bible-lee-ot-nehemiah.json",
+      "bytes": 55924,
+      "chapters": 13,
+      "title": "Lectio Easy Bible — AI 번역 — Nehemiah",
       "level": 1
     },
     {

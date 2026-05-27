@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T04:58:55.201Z",
-  "count": 251,
-  "totalBytes": 16218303,
+  "generated": "2026-05-27T05:03:57.424Z",
+  "count": 252,
+  "totalBytes": 16234828,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1433,6 +1433,14 @@
       "bytes": 9806,
       "chapters": 4,
       "title": "Lectio Easy Bible — AI 번역 — Malachi",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-micah",
+      "file": "books/bible-lee-ot-micah.json",
+      "bytes": 16525,
+      "chapters": 7,
+      "title": "Lectio Easy Bible — AI 번역 — Micah",
       "level": 1
     },
     {

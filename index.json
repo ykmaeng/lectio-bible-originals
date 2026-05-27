@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-26T23:43:27.679Z",
-  "count": 237,
-  "totalBytes": 15769275,
+  "generated": "2026-05-27T00:02:59.710Z",
+  "count": 238,
+  "totalBytes": 15881032,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1273,6 +1273,14 @@
       "bytes": 6046,
       "chapters": 3,
       "title": "Lectio Easy Bible — AI 번역 — Titus",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-1-chronicles",
+      "file": "books/bible-lee-ot-1-chronicles.json",
+      "bytes": 111757,
+      "chapters": 29,
+      "title": "Lectio Easy Bible — AI 번역 — 1 Chronicles",
       "level": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T06:18:01.617Z",
-  "count": 261,
-  "totalBytes": 16807065,
+  "generated": "2026-05-27T06:39:00.480Z",
+  "count": 262,
+  "totalBytes": 17002103,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1417,6 +1417,14 @@
       "bytes": 29018,
       "chapters": 14,
       "title": "Lectio Easy Bible — AI 번역 — Hosea",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-isaiah",
+      "file": "books/bible-lee-ot-isaiah.json",
+      "bytes": 195038,
+      "chapters": 66,
+      "title": "Lectio Easy Bible — AI 번역 — Isaiah",
       "level": 1
     },
     {

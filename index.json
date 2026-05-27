@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T05:35:07.021Z",
-  "count": 257,
-  "totalBytes": 16389966,
+  "generated": "2026-05-27T05:39:17.290Z",
+  "count": 258,
+  "totalBytes": 16423219,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1521,6 +1521,14 @@
       "bytes": 15340,
       "chapters": 8,
       "title": "Lectio Easy Bible — AI 번역 — Song of Solomon",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-zechariah",
+      "file": "books/bible-lee-ot-zechariah.json",
+      "bytes": 33253,
+      "chapters": 14,
+      "title": "Lectio Easy Bible — AI 번역 — Zechariah",
       "level": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T03:56:24.593Z",
-  "count": 244,
-  "totalBytes": 16127263,
+  "generated": "2026-05-27T04:06:25.604Z",
+  "count": 245,
+  "totalBytes": 16155912,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1329,6 +1329,14 @@
       "bytes": 134857,
       "chapters": 34,
       "title": "Lectio Easy Bible — AI 번역 — Deuteronomy",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-esther",
+      "file": "books/bible-lee-ot-esther.json",
+      "bytes": 28649,
+      "chapters": 10,
+      "title": "Lectio Easy Bible — AI 번역 — Esther",
       "level": 1
     },
     {

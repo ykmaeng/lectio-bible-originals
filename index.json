@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T05:48:31.720Z",
-  "count": 259,
-  "totalBytes": 16507776,
+  "generated": "2026-05-27T06:00:09.051Z",
+  "count": 260,
+  "totalBytes": 16605524,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1409,6 +1409,14 @@
       "bytes": 29018,
       "chapters": 14,
       "title": "Lectio Easy Bible — AI 번역 — Hosea",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-job",
+      "file": "books/bible-lee-ot-job.json",
+      "bytes": 97748,
+      "chapters": 42,
+      "title": "Lectio Easy Bible — AI 번역 — Job",
       "level": 1
     },
     {

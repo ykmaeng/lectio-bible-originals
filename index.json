@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T07:00:32.218Z",
-  "count": 263,
-  "totalBytes": 17225756,
+  "generated": "2026-05-27T07:34:59.566Z",
+  "count": 264,
+  "totalBytes": 17470031,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1545,6 +1545,14 @@
       "bytes": 84557,
       "chapters": 31,
       "title": "Lectio Easy Bible — AI 번역 — Proverbs",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-psalms",
+      "file": "books/bible-lee-ot-psalms.json",
+      "bytes": 244275,
+      "chapters": 150,
+      "title": "Lectio Easy Bible — AI 번역 — Psalms",
       "level": 1
     },
     {

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T08:21:52.266Z",
+  "generated": "2026-05-27T08:25:19.703Z",
   "count": 264,
-  "totalBytes": 17475719,
+  "totalBytes": 17474993,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1150,7 +1150,7 @@
     {
       "slug": "bible-lee-nt-acts",
       "file": "books/bible-lee-nt-acts.json",
-      "bytes": 132399,
+      "bytes": 132391,
       "chapters": 28,
       "title": "Lectio Easy Bible — AI 번역 — Acts",
       "level": 1
@@ -1198,7 +1198,7 @@
     {
       "slug": "bible-lee-nt-john",
       "file": "books/bible-lee-nt-john.json",
-      "bytes": 103182,
+      "bytes": 103178,
       "chapters": 21,
       "title": "Lectio Easy Bible — AI 번역 — John",
       "level": 1
@@ -1214,7 +1214,7 @@
     {
       "slug": "bible-lee-nt-luke",
       "file": "books/bible-lee-nt-luke.json",
-      "bytes": 135870,
+      "bytes": 135866,
       "chapters": 24,
       "title": "Lectio Easy Bible — AI 번역 — Luke",
       "level": 1
@@ -1222,7 +1222,7 @@
     {
       "slug": "bible-lee-nt-mark",
       "file": "books/bible-lee-nt-mark.json",
-      "bytes": 80471,
+      "bytes": 80465,
       "chapters": 16,
       "title": "Lectio Easy Bible — AI 번역 — Mark",
       "level": 1
@@ -1230,7 +1230,7 @@
     {
       "slug": "bible-lee-nt-matthew",
       "file": "books/bible-lee-nt-matthew.json",
-      "bytes": 127978,
+      "bytes": 127974,
       "chapters": 28,
       "title": "Lectio Easy Bible — AI 번역 — Matthew",
       "level": 1
@@ -1286,7 +1286,7 @@
     {
       "slug": "bible-lee-ot-1-kings",
       "file": "books/bible-lee-ot-1-kings.json",
-      "bytes": 116988,
+      "bytes": 116924,
       "chapters": 22,
       "title": "Lectio Easy Bible — AI 번역 — 1 Kings",
       "level": 1
@@ -1294,7 +1294,7 @@
     {
       "slug": "bible-lee-ot-1-samuel",
       "file": "books/bible-lee-ot-1-samuel.json",
-      "bytes": 121558,
+      "bytes": 121482,
       "chapters": 31,
       "title": "Lectio Easy Bible — AI 번역 — 1 Samuel",
       "level": 1
@@ -1302,7 +1302,7 @@
     {
       "slug": "bible-lee-ot-2-chronicles",
       "file": "books/bible-lee-ot-2-chronicles.json",
-      "bytes": 136166,
+      "bytes": 136154,
       "chapters": 36,
       "title": "Lectio Easy Bible — AI 번역 — 2 Chronicles",
       "level": 1
@@ -1310,7 +1310,7 @@
     {
       "slug": "bible-lee-ot-2-kings",
       "file": "books/bible-lee-ot-2-kings.json",
-      "bytes": 117010,
+      "bytes": 117002,
       "chapters": 25,
       "title": "Lectio Easy Bible — AI 번역 — 2 Kings",
       "level": 1
@@ -1318,7 +1318,7 @@
     {
       "slug": "bible-lee-ot-2-samuel",
       "file": "books/bible-lee-ot-2-samuel.json",
-      "bytes": 101538,
+      "bytes": 101458,
       "chapters": 24,
       "title": "Lectio Easy Bible — AI 번역 — 2 Samuel",
       "level": 1
@@ -1342,7 +1342,7 @@
     {
       "slug": "bible-lee-ot-deuteronomy",
       "file": "books/bible-lee-ot-deuteronomy.json",
-      "bytes": 134857,
+      "bytes": 134721,
       "chapters": 34,
       "title": "Lectio Easy Bible — AI 번역 — Deuteronomy",
       "level": 1
@@ -1366,7 +1366,7 @@
     {
       "slug": "bible-lee-ot-exodus",
       "file": "books/bible-lee-ot-exodus.json",
-      "bytes": 160531,
+      "bytes": 160459,
       "chapters": 40,
       "title": "Lectio Easy Bible — AI 번역 — Exodus",
       "level": 1
@@ -1390,7 +1390,7 @@
     {
       "slug": "bible-lee-ot-genesis",
       "file": "books/bible-lee-ot-genesis.json",
-      "bytes": 198752,
+      "bytes": 198668,
       "chapters": 50,
       "title": "Lectio Easy Bible — AI 번역 — Genesis",
       "level": 1
@@ -1454,7 +1454,7 @@
     {
       "slug": "bible-lee-ot-jonah",
       "file": "books/bible-lee-ot-jonah.json",
-      "bytes": 6931,
+      "bytes": 6879,
       "chapters": 4,
       "title": "Lectio Easy Bible — AI 번역 — Jonah",
       "level": 1
@@ -1462,7 +1462,7 @@
     {
       "slug": "bible-lee-ot-joshua",
       "file": "books/bible-lee-ot-joshua.json",
-      "bytes": 92764,
+      "bytes": 92728,
       "chapters": 24,
       "title": "Lectio Easy Bible — AI 번역 — Joshua",
       "level": 1
@@ -1470,7 +1470,7 @@
     {
       "slug": "bible-lee-ot-judges",
       "file": "books/bible-lee-ot-judges.json",
-      "bytes": 91331,
+      "bytes": 91291,
       "chapters": 21,
       "title": "Lectio Easy Bible — AI 번역 — Judges",
       "level": 1
@@ -1518,7 +1518,7 @@
     {
       "slug": "bible-lee-ot-nehemiah",
       "file": "books/bible-lee-ot-nehemiah.json",
-      "bytes": 55924,
+      "bytes": 55920,
       "chapters": 13,
       "title": "Lectio Easy Bible — AI 번역 — Nehemiah",
       "level": 1
@@ -1526,7 +1526,7 @@
     {
       "slug": "bible-lee-ot-numbers",
       "file": "books/bible-lee-ot-numbers.json",
-      "bytes": 159202,
+      "bytes": 159182,
       "chapters": 36,
       "title": "Lectio Easy Bible — AI 번역 — Numbers",
       "level": 1
@@ -1558,7 +1558,7 @@
     {
       "slug": "bible-lee-ot-ruth",
       "file": "books/bible-lee-ot-ruth.json",
-      "bytes": 12728,
+      "bytes": 12712,
       "chapters": 4,
       "title": "Lectio Easy Bible — AI 번역 — Ruth",
       "level": 1

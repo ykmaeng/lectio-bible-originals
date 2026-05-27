@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-27T04:41:22.673Z",
-  "count": 247,
-  "totalBytes": 16170734,
+  "generated": "2026-05-27T04:44:55.473Z",
+  "count": 248,
+  "totalBytes": 16179413,
   "books": [
     {
       "slug": "bible-bsb-nt-1-corinthians",
@@ -1449,6 +1449,14 @@
       "bytes": 12728,
       "chapters": 4,
       "title": "Lectio Easy Bible — AI 번역 — Ruth",
+      "level": 1
+    },
+    {
+      "slug": "bible-lee-ot-zephaniah",
+      "file": "books/bible-lee-ot-zephaniah.json",
+      "bytes": 8679,
+      "chapters": 3,
+      "title": "Lectio Easy Bible — AI 번역 — Zephaniah",
       "level": 1
     },
     {

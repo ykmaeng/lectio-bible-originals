@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T04:41:22.203Z",
-  "totalChapters": 709,
+  "generated": "2026-05-27T04:44:55.124Z",
+  "totalChapters": 712,
   "books": {
     "ot": {
       "1-chronicles": [
@@ -495,6 +495,11 @@
         2,
         3,
         4
+      ],
+      "zephaniah": [
+        1,
+        2,
+        3
       ]
     },
     "nt": {
